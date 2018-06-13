@@ -1,0 +1,7 @@
+[package]
+name = "kek"
+version = "0.1.0"
+authors = ["Kyle Clemens <git@kyleclemens.com>"]
+
+[dependencies.askama]
+git = "https://github.com/djc/askama"
